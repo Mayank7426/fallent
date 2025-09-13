@@ -1060,16 +1060,6 @@ ul.ddd {
     bottom: 12px;
     left: 146px;
 }
-.team-text h2::after {
-    content: "";
-    width: 50px;
-    height: 2px;
-    background: #F03C01;
-    position: absolute;
-    display: inline-block;
-    bottom: 3px;
-    right: 135px;
-}
 .team-text h2::before {
     content: "";
     position: absolute;
@@ -1078,7 +1068,17 @@ ul.ddd {
     background: #f03c02;
     display: inline-block;
     bottom: 0;
-    left: 152PX;
+    left: 166PX;
     top: 23px;
+}
+.team-text h2::after {
+    content: "";
+    width: 50px;
+    height: 2px;
+    background: #F03C01;
+    position: absolute;
+    display: inline-block;
+    bottom: 3px;
+    right: 155px;
 }
 }
