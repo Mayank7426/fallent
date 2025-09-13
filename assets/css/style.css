@@ -587,8 +587,8 @@ p.fst-italic {
 }
 .content-img a {
     position: absolute;
-    left: 224px;
-    bottom: 113px;
+    left: 140px;
+    bottom: 78px;
     font-size: 70px;
     color: #f03c02;
 }
@@ -1031,7 +1031,7 @@ ul.ddd {
     height: 2px;
     background: #f03c02;
     bottom: 14px;
-    right: 155px;
+    right: 173px;
 }
 .client-text h1::before {
     content: "";
@@ -1040,7 +1040,7 @@ ul.ddd {
     height: 2px;
     background: #f03c02;
     bottom: 14px;
-    left: 157px;
+    left: 174px;
 }
 .skills-text h2::after {
     content: "";
@@ -1049,7 +1049,7 @@ ul.ddd {
     height: 2px;
     background: #f03c02;
     bottom: 14px;
-    right: 140px;
+    right: 160px;
 }
 .skills-text h2::before {
     content: "";
@@ -1058,7 +1058,7 @@ ul.ddd {
     height: 2px;
     background: #f03c02;
     bottom: 12px;
-    left: 146px;
+    left: 160px;
 }
 .team-text h2::before {
     content: "";
